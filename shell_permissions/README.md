@@ -10,4 +10,7 @@
     - this script creates an empty file called 'hello'.
 
 ## Execute permission script:
-    - this script adds execute permission to the owner of the file 'hello'.
+    - this script adds execute-permission to the owner of the file 'hello'.
+
+## Multiple permission script:
+    - this script adds execute-permission to the owner and group-owner and read-permission to other users.
