@@ -14,3 +14,7 @@
 
 ## Multiple permission script:
     - this script adds execute-permission to the owner and group-owner and read-permission to other users.
+
+## Permission with numeric representation:
+    - Numeric-Permission representation: r(4), w(2), x(1)
+    - this script adds (rwxr-x-wx) to 'hello' file which is equivelent to (753).
