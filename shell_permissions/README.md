@@ -5,3 +5,6 @@
 
 ## Who am I script:
     - this script print current user name in terminal.
+
+## Empty file script:
+    - this script creates an empty file called 'hello'.
